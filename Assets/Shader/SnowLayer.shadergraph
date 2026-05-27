@@ -1139,8 +1139,8 @@
     "m_ObjectId": "08f8ba6e2651459e94cf59dfe497acd6",
     "m_Title": "Dot Product Calculation",
     "m_Position": {
-        "x": -4061.999755859375,
-        "y": -477.99993896484377
+        "x": -4062.0,
+        "y": -478.0
     }
 }
 
@@ -3550,7 +3550,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Y",
     "m_StageCapability": 3,
-    "m_Value": 0.0,
+    "m_Value": 1.0,
     "m_DefaultValue": 0.0,
     "m_Labels": [
         "Y"
@@ -3846,8 +3846,8 @@
     "m_ObjectId": "6527f876e8a0415a87e3376807cae8b3",
     "m_Title": "Sample Texture + Base Color",
     "m_Position": {
-        "x": -1703.9998779296875,
-        "y": -1441.9998779296875
+        "x": -1704.0001220703125,
+        "y": -1442.0
     }
 }
 
@@ -4991,7 +4991,7 @@
     "m_Title": "Snow Color",
     "m_Position": {
         "x": -2946.0,
-        "y": -577.9999389648438
+        "y": -578.0
     }
 }
 
@@ -5706,7 +5706,7 @@
     "m_Title": "Snow BuildUp (Noise Calcalation)",
     "m_Position": {
         "x": -2914.0,
-        "y": 31.999996185302736
+        "y": 32.00001907348633
     }
 }
 
@@ -6236,8 +6236,8 @@
     "m_ObjectId": "d6bd1e263b014239b52714cabcc4a6cd",
     "m_Title": "Normal Texture",
     "m_Position": {
-        "x": -823.0000610351563,
-        "y": 764.9999389648438
+        "x": -823.0001831054688,
+        "y": 765.0000610351563
     }
 }
 
@@ -6547,8 +6547,8 @@
     "m_ObjectId": "e50013349b10429a8da038c0c37abac4",
     "m_Title": "Smoothness Map",
     "m_Position": {
-        "x": -831.9999389648438,
-        "y": -276.9999694824219
+        "x": -832.0,
+        "y": -277.00006103515627
     }
 }
 

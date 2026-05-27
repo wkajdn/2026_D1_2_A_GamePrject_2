@@ -1385,7 +1385,7 @@
     "m_ObjectId": "3df4beee4aea4f9ba1542be22e2237a8",
     "m_Title": "Main Texture Sample",
     "m_Position": {
-        "x": 1779.000244140625,
+        "x": 1779.0,
         "y": -266.0
     }
 }
@@ -1905,7 +1905,7 @@
     "m_Title": "Calculate Clip-space Positions",
     "m_Position": {
         "x": -1179.0,
-        "y": -141.00025939941407
+        "y": -141.0
     }
 }
 
@@ -3282,8 +3282,8 @@
     "m_ObjectId": "d860b477f5994e3ea55ad9d858f257f5",
     "m_Title": "Calculate Bounding box",
     "m_Position": {
-        "x": 1174.000244140625,
-        "y": -1019.0001220703125
+        "x": 1174.0,
+        "y": -1019.0
     }
 }
 
